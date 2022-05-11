@@ -10,6 +10,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Pat",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://ds2-virtualbox:8081/artifactory/api/npm/npm/"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
