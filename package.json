@@ -13,7 +13,7 @@
   "author": "Pat",
   "license": "ISC",
   "publishConfig": {
-    "registry": "http://ds2-virtualbox:8081/artifactory/api/npm/npm-local/"
+    "registry": "http://ds2-virtualbox:8082/artifactory/npm-local/"
   },
   "author": "",
   "license": "ISC",
