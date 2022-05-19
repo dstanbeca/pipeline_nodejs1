@@ -1,10 +1,15 @@
 {
   "name": "nodejs_test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Nodejs demo app for running a cloud native Tekton Pipeline.",
   "repository": {
     "type": "git",
     "url": "https://github.com/dstanbeca/pipeline_nodejs1"
+  },
+  "author": "Pat",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://ds2-virtualbox:8081/artifactory/api/npm/npm/"
   },
   "main": "app.js",
   "scripts": {
